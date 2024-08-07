@@ -1,12 +1,12 @@
 Prolif
 ======
 
-##Overview##
+## Overview
 --------
 
 Prolif is a React application that showcases various artists. On the index page, you can see individual artist names, each linking to a personal show page. The app also includes features to add, edit, and delete artists, along with a special page dedicated to Kara Walker's personalized honorable mention.
 
-##Features##
+## Features
 --------
 
 -   **Index Page**: Displays a list of all artists. Each artist's name is a clickable link that navigates to their personal show page.
@@ -19,7 +19,9 @@ Prolif is a React application that showcases various artists. On the index page,
 Technologies Used
 -----------------
 
-### Dependencies
+### Frontend
+
+#### Dependencies
 
 -   **React**: `^18.2.0`
 -   **React DOM**: `^18.2.0`
@@ -31,7 +33,7 @@ Technologies Used
 -   **react-native-vector-icons**: `^10.1.0`
 -   **React Router DOM**: `^6.14.2`
 
-### DevDependencies
+#### DevDependencies
 
 -   **@types/react**: `^18.3.3`
 -   **@types/react-dom**: `^18.3.0`
@@ -41,6 +43,22 @@ Technologies Used
 -   **eslint-plugin-react-hooks**: `^4.6.2`
 -   **eslint-plugin-react-refresh**: `^0.4.7`
 -   **vite**: `^5.3.4`
+
+### Backend
+
+The backend repository provides the necessary API endpoints for the frontend to interact with the database.
+
+#### Dependencies
+
+-   **cors**: `^2.8.5`
+-   **dotenv**: `^16.4.5`
+-   **express**: `^4.19.2`
+-   **pg-promise**: `^11.9.1`
+-   **nodemon**: `^2.0.15`
+
+#### Repository
+
+The backend code is available at: [Here](https://github.com/KhylaRedd/prolif_backend)
 
 Installation
 ------------
