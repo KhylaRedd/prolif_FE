@@ -1,0 +1,18 @@
+.formEdit{
+   padding: 5%;
+    height: 100vh;
+    width: 94vw;
+ background: rgb(224,205,96);
+background: radial-gradient(circle, rgba(224,205,96,1) 11%, rgba(255,131,39,1) 48%, rgba(195,137,15,1) 75%, rgba(125,146,159,0.9906337535014006) 80%, rgba(198,79,26,1) 80%); 
+}
+.formmm{
+    display: grid;
+    grid-template-rows: 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
+    height: 100vh;
+    width: 100vw;
+    
+
+}
+label{
+font-size: 25px;
+}

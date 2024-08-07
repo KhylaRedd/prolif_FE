@@ -1,0 +1,32 @@
+.photoset{
+    min-height: fit-content;
+    width: 100vw;
+    background: linear-gradient(90deg, rgba(48,29,2,0.9094231442577031) 2%, rgba(156,145,128,1) 6%, rgba(199,191,178,0.8785889355742297) 9%, rgba(223,221,216,1) 21%, rgba(255,254,251,1) 54%, rgba(223,221,216,0.9822303921568627) 85%, rgba(199,191,178,0.7833508403361344) 94%, rgba(161,151,134,1) 97%, rgba(48,29,2,1) 99%);
+    padding: 10px;
+}
+.ps3{
+    height: 250px;
+    border-radius: 50px;
+}
+
+.ps2{
+    border-radius: 50px;
+}
+
+.ps1{
+    border-radius: 50%;
+}
+
+.ps4{
+    height: 550px;
+    border-radius: 50px;
+}
+
+.ps5{
+    width: 900px;
+    border-radius: 50px;
+}
+.ps6{
+    border-radius: 50px;
+    margin-bottom: 5%;
+}

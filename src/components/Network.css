@@ -1,0 +1,16 @@
+.network{
+    
+    font-family: 'Gupter', serif;
+    background-color: #0f1010 ;
+    width: 100VW;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    position: relative;
+    
+}
+.l{
+    color:gold;
+    display: flex;
+    justify-content: center;
+}

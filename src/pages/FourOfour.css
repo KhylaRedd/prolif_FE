@@ -1,0 +1,28 @@
+.numfo{
+        font-size: 400px;
+        color: azure;
+        
+}
+
+.FourOfour{
+  
+     width: 100vw;
+     height: 100vh;
+     
+
+}
+
+.fourO{
+    color: azure;
+    text-decoration: underline;
+    
+}
+
+.FourOfourpage{
+    background-image: url('../assets/PEOPLE.webp');
+    background-size: cover;
+    background-position: center;
+    width: 100vw;
+    height: 90vh
+   
+}

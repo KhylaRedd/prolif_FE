@@ -1,0 +1,56 @@
+/* index.css */
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Gupter:wght@400;500;700&display=swap');
+
+:root {
+  
+ 
+  font-weight: 400;
+  
+  
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+a {
+  font-size: 20px;
+  text-decoration: inherit;
+  padding: 10px;
+  margin-right: 3px;
+  color: rgb(250, 249, 248);
+
+}
+a:hover {
+  color: rgb(255, 255, 255);
+  text-shadow: rgb(8, 77, 109) 0px 2px 5px ;
+  letter-spacing: 1px;
+  font-size: 25px;
+  text-decoration:underline;
+}
+
+body {
+  margin: 0;
+  place-items: center;
+  min-height: 100vh;
+  font-family: 'Gupter', serif;
+  font-weight: 400;
+  font-style: normal;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+
+
+button {
+  
+  border: 1px solid transparent;
+  
+  font-size: 1.5em;
+  font-weight: 500;
+  font-family: inherit;
+  cursor: pointer;
+  
+}
+

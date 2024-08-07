@@ -1,0 +1,56 @@
+.ArtistCard{
+ padding: 5px;
+ display: grid;
+ grid-column: 2/3;
+ font-size: 25px;
+ font-weight: bold;
+ justify-items: start;
+ color: antiquewhite;
+
+}
+span{
+    font-size: 18px;
+    color: black;
+    text-decoration: underline;
+    
+
+}
+.showArtist{
+   
+    display: grid;
+  
+    align-items: stretch;
+    width: 100vw;
+    
+   
+    align-content: space-evenly;
+    justify-items: center;
+    background: rgb(161,96,137);
+    background: radial-gradient(circle, rgba(161,96,137,1) 0%, rgba(145,72,66,1) 100%);
+    
+    height: 100%;
+    padding: 5%;
+}
+.artsquare{
+    border: black 2px solid;
+    border-radius: 5px;
+    height: 600px;
+    width:500px;
+    box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+    background-color: antiquewhite;
+
+
+}
+.artsquare:hover{
+    box-shadow: 0 0 10px rgba(255, 255, 255, 0.5), /* Inner glow */
+              0 0 20px rgba(255, 255, 255, 0.7), /* Outer glow */
+              0 0 30px rgba(255, 187, 16, 0.959), /* Further spread glow */
+              0 0 40px rgba(255, 255, 255, 0.7); /* Even further spread glow */
+}
+
+.b{
+    color: antiquewhite;
+    background-color: rgb(59, 10, 53);
+    margin: 5px;
+    border-radius: 5px;
+}

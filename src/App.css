@@ -1,0 +1,21 @@
+#root {
+  max-width: 1280px;
+  text-align: center;
+ 
+}
+
+.gupter-regular {
+  font-family: "Gupter", serif;
+  font-weight: 700;
+  font-style: normal;
+}
+body {
+  background-image: url('/background.jpg');
+  background-size: cover; /* 
+  
+  background-position: center center; /* Centers the image */
+}
+
+
+
+
